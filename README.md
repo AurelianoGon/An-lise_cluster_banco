@@ -28,8 +28,8 @@ Seguem abaixo alguns resutados das análises realizadas individualmente nas vari
 
 
 ## Resultados Principais:
-1. Análise comparativa da lealdade à marca entre os grupos de clientes.
-2. Visualizações interativas dos clusters identificados.
+1. Categorizar os clientes de uma operadora de cartão de crédito.
+2. Analisar os grupos de clientes mais e menos leais à marca (por meio do uso).
 3. Métricas de avaliação da qualidade dos clusters.
 
 ### Próximos Passos:
